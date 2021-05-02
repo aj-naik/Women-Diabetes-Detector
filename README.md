@@ -1,5 +1,5 @@
 # Women-Diabetes-Detector
-A dockerized end to end ML Web app for web app for detection of diabetes among women
+A dockerized end to end ML Web app for web app for detection of diabetes among women with a high classification accuracy tested on a variety of models including those which were trained on the go in the web app itself
 
 # Link for web app:
 http://whispering-everglades-97562.herokuapp.com/
